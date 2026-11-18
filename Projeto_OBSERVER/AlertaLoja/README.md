@@ -1,5 +1,7 @@
 # AlertaLoja — Padrão de Projeto Observer
 
+Grupo: Jadson Marques, Marcel Paiva e Matheus Rodrigues
+
 ## 1. Explicação do projeto
 
 O **AlertaLoja** simula uma loja que avisa automaticamente quem tem interesse nos seus produtos.
